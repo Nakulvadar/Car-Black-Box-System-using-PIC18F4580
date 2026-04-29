@@ -115,6 +115,7 @@ car-black-box/
 ## 👨‍💻 Author
 
 Nakul Anil Vadar
+
 Embedded Systems & IoT Developer
 
 ---
